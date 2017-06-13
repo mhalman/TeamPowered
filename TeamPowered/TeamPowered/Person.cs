@@ -8,5 +8,7 @@ namespace TeamPowered
 {
     class Person
     {
+            public string Name { get; set }
+            Public string Address { get; set }
     }
 }
